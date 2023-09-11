@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694154252 source:c:\users\user\desktop\vibration sensors\code block\average_value_of_given input\main.c
+	<stdio.h>
+	<stdlib.h>
+

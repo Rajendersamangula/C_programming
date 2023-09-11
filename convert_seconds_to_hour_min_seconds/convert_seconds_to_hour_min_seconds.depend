@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694169097 source:c:\users\user\desktop\vibration sensors\code block\convert_seconds_to_hour_min_seconds\main.c
+	<stdio.h>
+	<stdlib.h>
+

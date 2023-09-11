@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694005645 source:c:\users\user\desktop\vibration sensors\code block\product_of_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+

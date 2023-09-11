@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694432945 source:c:\users\user\desktop\vibration sensors\code block\average_of_given_positive_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

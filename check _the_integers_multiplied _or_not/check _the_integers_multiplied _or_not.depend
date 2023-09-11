@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694241404 source:c:\users\user\desktop\vibration sensors\code block\check _the_integers_multiplied _or_not\main.c
+	<stdio.h>
+	<stdlib.h>
+

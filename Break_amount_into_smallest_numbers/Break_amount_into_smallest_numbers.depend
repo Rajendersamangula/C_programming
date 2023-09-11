@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694167181 source:c:\users\user\desktop\vibration sensors\code block\break_amount_into_smallest_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

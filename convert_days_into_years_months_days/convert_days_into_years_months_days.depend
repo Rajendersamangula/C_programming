@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694169537 source:c:\users\user\desktop\vibration sensors\code block\convert_days_into_years_months_days\main.c
+	<stdio.h>
+	<stdlib.h>
+

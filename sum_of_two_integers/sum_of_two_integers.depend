@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694002604 source:c:\users\user\desktop\vibration sensors\code block\sum_of_two_integers\main.c
+	<stdio.h>
+	<stdlib.h>
+

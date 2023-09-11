@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694150130 source:c:\users\user\desktop\vibration sensors\code block\salary_with_decimal_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

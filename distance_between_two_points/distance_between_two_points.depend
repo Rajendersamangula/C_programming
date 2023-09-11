@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694155987 source:c:\users\user\desktop\vibration sensors\code block\distance_between_two_points\main.c
+	<stdio.h>
+	<stdlib.h>
+
